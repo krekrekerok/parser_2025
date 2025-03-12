@@ -1,2 +1,8 @@
-tqdm
-bs4
+Name: requests
+Version: 2.32.3
+---
+Name: beautifulsoup4
+Version: 4.13.3
+---
+Name: tqdm
+Version: 4.67.1
