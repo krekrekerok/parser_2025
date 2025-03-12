@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 import json
+import os
+
+if not os.path.isdir("data"):
+    os.mkdir("data")
 
 URL = "https://m.mashina.kg/search/all/"
 num_pages = int(input("How many pages to parse? "))
