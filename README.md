@@ -19,7 +19,7 @@ This project scrapes car listings from the Mashina.kg website and saves the link
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/krekrekerok/parser_2025.git
+git clone https://github.com/simonlobgromov/parser_2025.git
 cd parser_2025
 ```
 
